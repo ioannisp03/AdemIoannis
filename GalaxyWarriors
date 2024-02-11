@@ -1,0 +1,16 @@
+Ioannis Panaritis i.panar@yahoo.com
+Adem Bessam adembessam@gmail.com
+Team name: Galaxy Warriors
+
+Project Description:
+Our game will be similar to a game created in the 80s called Galaga (https://www.youtube.com/watch?v=dvjapcHsqXY).
+The game involves a player controlled rocket ship that defends against waves of enemies that come flying across the screen. The 
+goal is to eliminate every alien ship to advance to the next level. These aliens will sometimes have unpredictable patterns. There will also
+be random objects (space debris) that will try and take out the player. Depending on how much time we have for this project, we may also
+implement powerups, bonus rounds, final bosses, etc
+To summarize, The user will need to avoid space debris, 
+and also shoot and eliminate all the aliens.
+
+Plan: We are not 100% sure on the exact plan yet, but we plan on at least setting up the environment in Unity (folders, organization, etc)
+After this is done we will implement some of the movement patterns (x and y axis), and maybe even start designing the spacecrafts and aliens.
+We will then slowly work on the collisions, and enemy movements
